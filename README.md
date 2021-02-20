@@ -1,2 +1,2 @@
 # sub-project
-sub project for git practice
+update readme on subproject
